@@ -1,6 +1,6 @@
 {
   "name": "circuitcrafter",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "A modern e-commerce platform built with Node, Express, MongoDB, and Cloudinary.",
   "main": "index.js",
   "type": "module",
