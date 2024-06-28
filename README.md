@@ -11,6 +11,7 @@ CircuitCrafter is a sophisticated full-stack e-commerce platform designed to pro
 - **Shopping Cart:** Conveniently add items to your cart and proceed to checkout.
 - **User Profile Management:** Edit and manage your user profile details with ease.
 - **Payment Processing:** A modern payment gateway powered by PayPal's Client SDK ensures secure and reliable transactions.
+- **Image Handling:** Images are temporarily stored in memory before being uploaded to the cloud, allowing for efficient and flexible image management.
 - **And Much More:** Explore additional features designed to enhance your e-commerce experience.
 
 ### Live Demo
