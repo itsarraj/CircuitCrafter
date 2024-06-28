@@ -1,6 +1,6 @@
 {
   "name": "circuitcrafter",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "A modern e-commerce platform built with Node, Express, MongoDB, and Cloudinary.",
   "main": "index.js",
   "type": "module",
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/animeshbucket/circuitcrafter#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "cloudinary": "^1.41.0",
+    "cloudinary": "^2.2.0",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",

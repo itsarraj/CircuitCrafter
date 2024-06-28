@@ -1,6 +1,6 @@
 {
   "name": "circuitcrafter",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "A modern e-commerce platform built with React, Redux Toolkit, Express and Tailwind CSS.",
   "private": true,
   "type": "module",
