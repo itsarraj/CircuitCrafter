@@ -2,7 +2,7 @@ Certainly, I've revised the README and package.json description for your Circuit
 
 ## CircuitCrafter - A Modern Fullstack E-commerce Platform
 
-CircuitCrafter is a sophisticated full-stack e-commerce platform designed to provide a seamless shopping experience for users. Built using cutting-edge technologies such as React, Redux Toolkit, Express, Tailwind CSS, Heroicons, MongoDB, and a secure Payment Gateway, CircuitCrafter offers a feature-rich solution for your online store.
+CircuitCrafter is a sophisticated full-stack e-commerce platform designed to provide a seamless shopping experience for users. Built using cutting-edge technologies such as React, Redux Toolkit, Express, Tailwind CSS, Heroicons, MongoDB, and a secure Paypal Payment Gateway, CircuitCrafter offers a feature-rich solution for your online store.
 
 ### Key Features
 
